@@ -8,12 +8,12 @@
        "group",
        "manager"
     ],   
- "repository": "https://github.com/TeamAloneOp/AloneRobot",
+ "repository": "https://github.com/TheDxCoderteam/ManagementRobot2.0",
  "stack": "heroku-22",
  "addons": [
     {
        "options": {
-          "version": "12"
+          "version": "16"
        },
        "plan": "heroku-postgresql"
     }
